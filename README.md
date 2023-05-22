@@ -12,7 +12,7 @@ This project was completed as a team assignment for the Subject Introduction to 
 - [Malak Gamal](https://github.com/malakg1)
 
 The project was conducted under the supervision of Dr. Ayman El-Kilany and TA. Mohamed Ramadan.
-A complete report could be found [here](https://github.com/KhaledElbalal/SIS213-Weekly-Sales-Prediction/blob/main/Data%20Science%20Report.pdf).
+A complete report, as well as all the visualizations and results could be found [here](https://github.com/KhaledElbalal/SIS213-Weekly-Sales-Prediction/blob/main/Data%20Science%20Report.pdf).
 
 ## Project Summary
 
